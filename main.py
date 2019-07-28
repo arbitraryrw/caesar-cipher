@@ -1,6 +1,6 @@
 import string
 
-print("Caeser Cipher Running!")
+print("Shifty Cipher Cipher Running!")
 
 alphabet_list = list(string.ascii_lowercase)
 
